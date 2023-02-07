@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">I continue to study computer science and now on the right way. From Russia 🇷🇺</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skidivigi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/srgprofile/badges/large)](https://www.codewars.com/users/srgprofile)
 <!--
 **skidivigi/skidivigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
